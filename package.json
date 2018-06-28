@@ -1,30 +1,30 @@
 {
-  "_from": "git://github.com/foxer666/node-multi-hashing.git",
+  "_from": "git://github.com/phamels/node-multi-hashing.git",
   "_id": "multi-hashing@1.0.3",
   "_inBundle": false,
   "_location": "/multi-hashing",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "multi-hashing@git://github.com/foxer666/node-multi-hashing.git",
+    "raw": "multi-hashing@git://github.com/phamels/node-multi-hashing.git",
     "name": "multi-hashing",
     "escapedName": "multi-hashing",
-    "rawSpec": "git://github.com/foxer666/node-multi-hashing.git",
-    "saveSpec": "git://github.com/foxer666/node-multi-hashing.git",
-    "fetchSpec": "git://github.com/foxer666/node-multi-hashing.git",
+    "rawSpec": "git://github.com/phamels/node-multi-hashing.git",
+    "saveSpec": "git://github.com/phamels/node-multi-hashing.git",
+    "fetchSpec": "git://github.com/phamels/node-multi-hashing.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git://github.com/foxer666/node-multi-hashing.git#6ef375ef87eac4f67e3c9909771f45eb25235190",
-  "_spec": "multi-hashing@git://github.com/foxer666/node-multi-hashing.git",
-  "_where": "/home/pieter/node-open-mining-portal/node_modules/stratum-pool",
+  "_resolved": "git://github.com/phamels/node-multi-hashing.git#6ef375ef87eac4f67e3c9909771f45eb25235190",
+  "_spec": "multi-hashing@git://github.com/phamels/node-multi-hashing.git",
+  "_where": "/home/nomp/node-open-mining-portal/node_modules/stratum-pool",
   "author": {
     "name": "Matthew Little"
   },
   "bugs": {
-    "url": "https://github.com/foxer666/node-multi-hashing/issues"
+    "url": "https://github.com/phamels/node-multi-hashing/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -34,7 +34,7 @@
   "deprecated": false,
   "description": "node-multi-hashing =============== Cryptocurrency hashing functions for [Node Stratum Pool](https://github.com/foxer666/node-stratum-pool)",
   "gypfile": true,
-  "homepage": "https://github.com/foxer666/node-multi-hashing#readme",
+  "homepage": "https://github.com/phamels/node-multi-hashing#readme",
   "keywords": [
     "scrypt",
     "scryptjane",
@@ -54,7 +54,7 @@
   "name": "multi-hashing",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/foxer666/node-multi-hashing.git"
+    "url": "git+https://github.com/phamels/node-multi-hashing.git"
   },
   "scripts": {
     "install": "node-gyp rebuild"
